@@ -19,7 +19,7 @@ body {
   width: 200px;
   margin: 10px auto;
   display: block;
-  border: 2px solid rgb(65, 63, 63);
+  border: 1.5px dotted  rgb(65, 63, 63);
   border-radius: 50%;
 }
 
