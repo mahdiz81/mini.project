@@ -1,56 +1,51 @@
 body {
-    font-family: sans-serif;
-    background-color: lightgrey;
-
+  font-family: sans-serif;
+  background-color: lightgrey;
 }
 
 .continer {
-    box-sizing: border-box;
-    width: 500px;
-    height: 450px;
-    background-color: #FFf;
-    margin: auto;
-    margin-top: 50px;
-    padding-top: 15px;
-    border-radius: 5px;
-    box-shadow: 0 0 15 rgb(121, 121, 121);
-
+  box-sizing: border-box;
+  width: 500px;
+  height: 450px;
+  background-color: #fff;
+  margin: auto;
+  margin-top: 50px;
+  padding-top: 15px;
+  border-radius: 5px;
+  box-shadow: 0 0 15 rgb(121, 121, 121);
 }
 
 .logo {
-    width: 200px;
-    margin: 10px auto;
-    display: block;
-    border: 3px dotted rgb(65, 63, 63);
-    border-radius: 50%;
+  width: 200px;
+  margin: 10px auto;
+  display: block;
+  border: 3px dotted rgb(65, 63, 63);
+  border-radius: 50%;
 }
 
 .title {
-    font-size: 24px;
-    text-align: center;
-    color: rgb(85, 85, 85);
-    font-weight: bold;
-    border-bottom: 4px solid lightgrey;
-    width: 140px;
-    margin: auto;
+  font-size: 24px;
+  text-align: center;
+  color: rgb(85, 85, 85);
+  font-weight: bold;
+  border-bottom: 4px solid lightgrey;
+  width: 140px;
+  margin: auto;
 }
 
 .desc {
-    text-align: center;
-    color: rgb(85, 85, 85);
-    font-size: 17px;
-
-
+  text-align: center;
+  color: rgb(85, 85, 85);
+  font-size: 17px;
 }
 
 .social {
-    background-color: lightgrey;
-    text-align: center;
-    height: 75px;
-
+  background-color: lightgrey;
+  text-align: center;
+  height: 75px;
 }
 
 .social img {
-    margin: 10px;
-    width: 60px;
+  margin: 10px;
+  width: 60px;
 }
